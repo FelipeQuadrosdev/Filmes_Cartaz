@@ -2,7 +2,7 @@
 
 
 ## Descrição
-Um site que exibe os filmes atualmente em cartaz nos cinemas, com informações detalhadas sobre cada filme, incluindo sinopse, elenco, e horários de exibição.
+Um site que exibe os filmes atualmente em cartaz nos cinemas, com informações detalhadas sobre cada filme, incluindo sinopse.
 
 ## Instalação
 Para instalar e configurar o projeto, siga os passos abaixo:
