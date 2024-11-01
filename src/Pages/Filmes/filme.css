@@ -1,0 +1,72 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    max-width: 800px;
+    padding: 0 8px;
+    
+}
+
+.container img{
+    width: 100%;
+    max-width: 800px;
+    padding: 0 15px;
+    border-radius: 20px;
+    cursor: pointer;
+    object-fit:cover;
+}
+
+.container h1{
+    margin: 15px 15px;
+}
+.container h3{
+    margin: 0 15px;
+    font-weight: bold;
+    padding: 10px 0;
+
+}
+.container span{
+    width: 100%;
+    max-width: 800px;
+    padding: 0 15px;
+    font-size: 1rem;
+    color: #000;
+}
+.container strong{
+    width: 100%;
+    max-width: 800px;
+    padding: 5px 15px;
+}
+
+.divButtons Button{
+    margin-right: 12px;
+    margin-top: 14px;
+    margin-left: 0;
+    font-size: 20px;
+    border: 0;
+    outline: none;
+    padding: 12px;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: all 0.5s;
+
+}
+.divButtons button:hover{
+    background-color: brown;
+    color: #fff;
+}
+.divButtons a{
+text-decoration: none;
+color: #000;
+transition: all 0.5s;
+}
+.divButtons a:hover{
+    color: #fff;
+}
+

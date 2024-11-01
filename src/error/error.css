@@ -1,0 +1,46 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.Container-Error {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 100vw;
+    height: 100vh;
+
+
+}
+
+.Container-Error h1 {
+    font-size: 45px;
+
+}
+
+.Container-Error h3 {
+    font-size: 2rem;
+    padding: 5px 0;
+}
+
+.link {
+    text-decoration: none;
+    font-size: 1.5rem;
+    cursor: pointer;
+    background-color: brown;
+    color: aliceblue;
+    width: 200px;
+    height: 38px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 5px;
+    transition: all 0.5s;
+}
+
+.link:hover {
+    background-color: red;
+    color: #fff;
+}
