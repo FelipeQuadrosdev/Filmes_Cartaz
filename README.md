@@ -8,6 +8,6 @@ Um site que exibe os filmes atualmente em cartaz nos cinemas, com informações 
 Para instalar e configurar o projeto, siga os passos abaixo:
 
 ```bash
-git clone https://github.com/seu-usuario/filmes-em-cartaz.git
+git clone https://github.com/FelipeQuadrosdev/Filmes_Cartaz.git
 cd filmes-em-cartaz
 npm install
